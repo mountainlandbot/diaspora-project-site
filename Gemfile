@@ -6,7 +6,7 @@ gem 'unicorn'
 
 gem 'mysql2'
 
-gem 'devise', '~> 3.0.0.rc'
+gem 'devise', '~> 3.5.10'
 gem 'rails_admin'
 
 gem 'sass-rails', '~> 4.0.0'
